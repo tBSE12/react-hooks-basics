@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hooks-basics/static/css/main.84b2043f.css",
+    "main.js": "/react-hooks-basics/static/js/main.790dbea5.js",
+    "index.html": "/react-hooks-basics/index.html",
+    "main.84b2043f.css.map": "/react-hooks-basics/static/css/main.84b2043f.css.map",
+    "main.790dbea5.js.map": "/react-hooks-basics/static/js/main.790dbea5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84b2043f.css",
+    "static/js/main.790dbea5.js"
+  ]
+}
